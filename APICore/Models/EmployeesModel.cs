@@ -7,11 +7,11 @@ namespace APICore.Models
 {
     public class EmployeesModel
     {
-        public int id { get; set; }
-        public string firstName { get; set; }
-        public string lastName { get; set; }
-        public string gender { get; set; }
-        public int salary { get; set; }
+        public int Id { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string Gender { get; set; }
+        public int Salary { get; set; }
 
     }
 }
